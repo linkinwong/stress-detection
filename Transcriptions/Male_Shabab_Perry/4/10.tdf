@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+10.wav	0	0.0	16.8831168831	speaker4	male	native	I uh get along with the people here just fine, uh even with local students because I actually have lived in Hong Kong for uh s-sixteen years. So uh I'm uh familar with uh -- with how they think, and nothing suprises me here in Hong Kong	0	0	0		

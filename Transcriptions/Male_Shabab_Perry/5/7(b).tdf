@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(b).wav	0	0.0	34.8051948052	speaker5	male	native	um I have - haven't started looking for a job. But I have been going to recruitment talks. uh I haven't done any uh interviews. But uh an uh so I don't have any preparation. uh I think it's actually hard to find job because the--there is a lot of people who are much better suited to the type of jobs I'm -- I'm trying to look for. uh I think my weaknesses would be my work experience and also my internship experience. But uh on other hand my professional knowledge and skills uh will compensate for that and also my communication skills will be a lot better.	0	0	0		

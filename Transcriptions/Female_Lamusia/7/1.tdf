@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	19.4444444444	speaker1	female	native	um I've seen a good movie called um the inception its-- its about the dream and scien-- scientifc stuff actually um this-- my favourite type of movie is about like love and romance	0	0	0		

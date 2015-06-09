@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	31.2987012987	speaker7	male	native	Um my hometown is Seoul, Korea. Um I recommend ah you go to eat some Korean food in Seoul. There many new Korean restaurants. Um you can also go to some old palaces to -- to see traditional stuff about Korea. And I prefer my hometown over Hong Kong, because you know it is my country and I feel more comfortable there. 	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	12.3825503356	speaker1	male	native	The course which I fin- find the most difficult in my n/a college are the o- mechanical core courses because they req-require a lot of brainstorming and a lot of hard work to be put in. 	0	0	0		

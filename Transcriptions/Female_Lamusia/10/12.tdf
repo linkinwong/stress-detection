@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+12.wav	0	0.0	15.3968253968	speaker12	female	native	uh Yes my parents gave me a lot of pressure because I'm the only child in the family and they have a lot of expectations on me and also my friends gave me a little bit pressure that's called peer pressure ((yea)) but I try to deal with that right now	0	0	0		

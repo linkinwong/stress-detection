@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	9.34947049924	speaker8	male	native	uh So my recent work is actually not going that well because its the beginning of the semester its always hard to get start again after the summer.	0	0	0		

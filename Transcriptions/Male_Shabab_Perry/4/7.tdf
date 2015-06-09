@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(a).wav	0	0.0	6.49350649351	speaker4	male	native	uh So my plan after graduation is to actually start a ~PHD in ~US. Uh I'm not looking for a job I'm applying for uh -- I'm sending applications for universities. uh I have not received an offer yet and what I find the hardest in studying is to write a paper or report. um it actually takes five years uh -- the normal time yeah for ~PHD uh is five years but ((I you)) probably can finish in four or three years if you're really good.	0	0	0		

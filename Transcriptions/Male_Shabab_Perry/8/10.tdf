@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+10.wav	0	0.0	37.5283732661	speaker8	male	native	uh How do I get along with other people well I guess you should be asking other people that question uh I think I get along with other people okay most of the time and I'm pretty sure that it's getting better all the time because every time you meet someone new you learn more about it and uh well ofcourse I can say that getting along with local students I'm not very good at it but I know that most international students here they don't get along with local students that well uh there are some students they are more international and ofcourse it's easier because they have more things in common.	0	0	0		

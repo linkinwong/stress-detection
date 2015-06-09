@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	32.5974025974	speaker7	male	native	Um I’m doing good in college. I have made a lot of friends. Ah I have chosen to come to this university because um it is more cheaper than ah other schools in ~US or ~UK. Um And also I got scholarship as well so I decided to come here. Um And I chose um finance and ~OM because I like -- I like these subject. That is how I chose my subject.	0	0	0		

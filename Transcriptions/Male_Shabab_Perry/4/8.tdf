@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	11.1688311688	speaker4	male	native	um The closest deadline I have to catch is the deadline for my uh ~PG course. I have to send in a ten page written report.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	41.3016270338	speaker1	male	native	Um I'm really busy at the moment I've got lots of homeworks and assignment submissions. I have a -- I have like assi -- I have almost two assignment submissions every week um I particularly find uh the electronics course's assignments the most difficult because they involve a lot of thought and lot of energy. I'm in my second year at the moment so it will take me two years more to graduate. Uh I've not begun writing any paper as of now. Um, I have exams in like two or three weeks time uh and apart from that theres also a lot of homework and other stuff.	0	0	0		

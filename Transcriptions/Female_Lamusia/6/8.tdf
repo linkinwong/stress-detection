@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	27.380952381	speaker8	female	native	the work didn't go very well recently because um i've got a lot to do but for some of the tasks i have no idea where to start, um i think i kind of write a-- wrote a paper last month but it's not like a serious paper it's like a student paper contest um i think i didn't have enough time to do that so i'm just kind of finish it up and like not really pay a lot of attention to that	0	0	0		

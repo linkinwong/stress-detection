@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	31.9841269841	speaker8	female	native	uh The reason work has been going well for me I haven't got any deadline to catch yet-- and um there's one course called uh derivative I think it's a little difficult but I just need to read through the textbook((s))-- and it will take uh approximately nine months for me to graduate and I don't have to write a paper so no difficulty for that and no recent exams um and I don't have that much homework they are pretty simple	0	0	0		

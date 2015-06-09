@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	13.343419062	speaker8	male	native	uh I would say that my two favorites cousines in the world would be maybe Italian and Thai food or yeah actually I like Indian food a lot as well.	0	0	0		

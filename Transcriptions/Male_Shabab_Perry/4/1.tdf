@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	25.8441558442	speaker4	male	native	Yes I have seen uh a good movie uh um a week ago which is called um The Experiment. What is good about is that um I like movie that surprised me and shock me. My favorite movie is -- actually I have many favorite movies uh so one of them is Lord of the Rings	0	0	0		

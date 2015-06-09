@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+10.wav	0	0.0	37.2619047619	speaker10	female	native	I get along with other people by um respecting other peoples habits or um attitudes an--and stuff like that. um I get along with local students by trying to speak their-- their language and joining their activities. um I intergrate into Hong Kong society by go to places where only local students usu-- local people usually go and speaking their local language and also by taking one of the Hong Kong society courses. I prefer my home town still but I still like Hong Kong, yup	0	0	0		

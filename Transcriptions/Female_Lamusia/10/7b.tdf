@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(b).wav	0	0.0	33.4126984127	speaker7b	female	native	um Yes currently I'm looking for a graduation job and so far I haven't got any interview yet and-- but I think I'm well prepared for the interviews especially for the case crack for um consulting management firms-- and my weakness for uh looking for jobs I think it comes down to my academic record because here in Hong Kong things are very competitive and people around me they're all having very good academic records so it's pretty hard to stand out in that sense 	0	0	0		

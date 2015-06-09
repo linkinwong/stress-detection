@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	12.8571428571	speaker6	male	native	I like uh Thai food, uh Thai cuisine is probably my favorite. Uh I have a restaurant in Hang Hau Tsuen where I usually go for Thai food. I enjoy it a lot.	0	0	0		

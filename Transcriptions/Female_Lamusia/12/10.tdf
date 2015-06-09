@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+10.wav	0	0.0	12.6587301587	speaker10	female	native	I'd say overall university so far has been better but at the end of high school I had really good friends as well so I think as far as friends go I've been pretty lucky and enjoying myself.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	16.2337662338	speaker7	male	native	Ah for my leisure I like to do sports, like I like going gym or I like play -- playing football or tennis. Ah That’s how I control -- how -- how I manage my stress level	0	0	0		

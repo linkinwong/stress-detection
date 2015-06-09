@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	11.8181818182	speaker7	male	native	Ah recently I’ve seen this Korean ah ~TV show which is called super star K. it's like American idol. It’s like a singing contest. 	0	0	0		

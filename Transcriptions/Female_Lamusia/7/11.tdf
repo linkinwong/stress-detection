@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	13.8492063492	speaker11	female	native	um im more anxious about my maybe love life because im being quite busy with my academic life and i haven't devote much of time like relationship stuff like that so yeah	0	0	0		

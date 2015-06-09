@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	15.7333333333	speaker8	male	native	Okay so I watched a movie called Machete. uh Its actually a really good its kind of violent so if you are sensitive I would not really recommend it but for anyone else i -- if you want an enjoyable movie I think you should really watch it.	0	0	0		

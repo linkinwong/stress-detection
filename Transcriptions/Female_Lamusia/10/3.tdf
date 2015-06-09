@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	19.246031746	speaker3	female	native	I'm from Shenzen my home town is Shenzen and it's specialty is spa and cheap fake goods and I--I really recommend Queens spa to go and I prefer Hong Kong over my home town because Hong Kong is more international	0	0	0		

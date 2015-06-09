@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	11.7857142857	speaker4	female	native	I surf the internet a lot um I stream a lot of ~TV shows and movies that's probably my main stress release and um sometimes I play sports.	0	0	0		

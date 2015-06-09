@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	28.3389261745	speaker1	male	native	um Recently I have a lot of presentations and projects which I need to work upon. The mec- mechanical courses actually um are the toughest for me because they involve a lot of thinking. I have-- It's my second year. I have two more years to graduate. uh I have my exams like after two weeks and I need to put in a lot of effort to (( )) well in them and I n/a have a lot of homework, too.	0	0	0		

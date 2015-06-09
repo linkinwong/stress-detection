@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	13.5714285714	speaker2	female	native	I've been to Korea last month um I like that place because it's like similar to Beijing, and I do have a lot of friends in Korea and we like hang out and stuff like those	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(a).wav	0	0.0	20.5194805195	speaker3	male	native	My plan after graduation is ofcourse take some time off uh absorb everything in that I graduated and that I'm ready for the working environment I'll go take a big trip with my family and my friends just before I start working and basically um get in the mood to -- to work in real life.	0	0	0		

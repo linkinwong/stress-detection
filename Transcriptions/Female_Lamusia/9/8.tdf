@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	22.1825396825	speaker8	female	native	Work is going okay I guess I don-- I have some deadlines to catch for a few of my courses but they're not too soon and I'm not too stressed about it because I know I get the work done. um I'll take I guess three years to graduate-- and uh wait-- I have a quiz coming up next month and no im fine.	0	0	0		

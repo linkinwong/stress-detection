@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c)(ii).wav	0	0.0	27.4025974026	speaker3	male	native	When it comes to studying, well what I think is hardest ofcourse I think that absorbing all the knowledge and -- and uh material is pretty hard but I think applying the real material to real life situations and scenarios is the hardest it's not going to get harder than that because the environment keeps changing and the textbook might not really apply so you have to use your common sense, etc. So yup I made think -- I made my point.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(a).wav	0	0.0	13.9473684211	speaker6	male	native	My plan after graduation is to uh look for a job, um so that I can pay uh for my bills. I need to find a job and that’s uh very important for me. Okay, um, I am looking for a job uh within the finance sector. And I uh start doing my applications uh online this semester. Application deadlines are very tense and I have to finish them within a month of my first uh semester of my final year. Further studies is something I’ve been thinking about doing two years after working. uh After working I will probably do the ~GMAT and ~GRE, I have it in the back of my head but I’m not doing it right now.	0	0	0		

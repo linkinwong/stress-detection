@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	20.5194805195	speaker4	male	native	uh In order to fulfill my um dreams, I always wanted to do uh biomedical research. In -- In order to do that I uh had to start with studying uh electronics, and uh ~HKUST is very well known for uh electronic engineering, so that's why I chose this university	0	0	0		

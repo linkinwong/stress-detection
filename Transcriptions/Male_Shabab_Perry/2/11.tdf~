@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	19.8701298701	speaker2	male	native	Well, I'm anxious about both my academic life and employment because bor are -- both are inter-related. I need to have a good academic life -- I mean I should do well in my studies and as well as the extra curricular activities to have a good job.	0	0	0		

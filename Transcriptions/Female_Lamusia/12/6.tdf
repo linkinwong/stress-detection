@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	10.119047619	speaker6	female	native	um I found accounting the most difficult out of them all I just didn't understand it at all um more difficult than finance.	0	0	0		

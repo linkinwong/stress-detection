@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c).wav	0	0.0	22.0779220779	speaker4	male	native	uh I have not received an offer yet and what I find the hardest in studying is to write a paper or report. um it actually takes five years uh -- the normal time yeah for ~PHD uh is five years but ((I you)) probably can finish in four or three years if you're really good.	0	0	0		

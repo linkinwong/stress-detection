@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+12.wav	0	0.0	29.246031746	speaker12	female	native	uh My friends don't really give me any pressure because I don't really compare myself with them but fro--with my parents because they do expect a lot from me and also because they want me to major in things like finance because they think it's practical but because I know I'm not really good with numbers I'm scared to actually go into that area or to study it but other than like those academic things I-- they don't really give me ((them))-- other kinds of pressure	0	0	0		

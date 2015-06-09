@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	9.40476190476	speaker11	female	native	I'm not really that anxious about anything in particular um nothing really stands out just like regular problems so it's nothing major.	0	0	0		

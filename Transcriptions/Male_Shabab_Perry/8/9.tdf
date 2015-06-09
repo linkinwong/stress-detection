@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	24.9350649351	speaker8	male	native	uh I think I'm adapting to college life pretty well because I've been a student for quite some time now and I mean most people here actually very nice and it's not that hard to adapt well and why did I come to this university well I lived in Shanghai before so in hong kong they have very good universities and uh yeah I guess that's pretty much the reason.	0	0	0		

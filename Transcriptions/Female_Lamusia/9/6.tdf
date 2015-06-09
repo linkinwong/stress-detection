@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	14.0476190476	speaker6	female	native	um I think the most difficult course I'm taking this semester is this econ course it's called industrial organisation and competitor strategy and it's difficult because I don't like math and it involves a lot of math.	0	0	0		

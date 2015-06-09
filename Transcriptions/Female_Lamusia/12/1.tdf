@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	14.2063492063	speaker1	female	native	um I have-- I saw greys anatomy just yesterday and house and big bang theory um I don't like one ~TV show in particular or a movie type in particular anything really does	0	0	0		

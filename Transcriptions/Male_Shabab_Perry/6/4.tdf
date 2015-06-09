@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	15.7894736842	speaker6	male	native	For leisure, I like uh surfing, um I also like hiking, Hong Kong is perfect for that. See usually I do a lot of sports,  uh I hike uh trails to uh -- to go to the beach Tai Long Wan uh to surf. 	0	0	0		

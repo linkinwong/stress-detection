@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+10.wav	0	0.0	15.1315789474	speaker6	male	native	uh I get along with people very well at college. I think I made friends for life compared to what I did in high school. um Hong Kong’s society is very hard to integrate to uh as a foreigner, but I’m getting by day by day. 	0	0	0		

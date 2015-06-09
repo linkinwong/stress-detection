@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c).wav	0	0.0	19.4805194805	speaker5	male	native	uh Have I got an offer? Yes uh I have had an my offer and uh it -- it is the one I wanted uh I wanted to go to ~U of ~T. uh What's my hardest uh place for studying I think the hardest would uh again be the mathematical side of everything. um ~PHD how long does it take to graduate? I think it would take around two years.	0	0	0		

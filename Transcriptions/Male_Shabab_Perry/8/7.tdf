@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7.wav	0	0.0	27.776096823	speaker8	male	native	uh After my graduation I hope I can find some sort of job in Mainland China because I lived in Shanghai for two years so it would be nice to somehow practice my Mandarin more and um I don't know I hope I can work for a smaller company where they give more responsibility. uh I -- I don't want to study anymore because I'm really fed up with studying so I really want to start working.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	13.4126984127	speaker9	female	native	um University life is pretty awesome um I came to u-- this university because of the scholarship and like it's cheaper than ~US universities and I chose my major because um I didn't know what else to do	0	0	0		

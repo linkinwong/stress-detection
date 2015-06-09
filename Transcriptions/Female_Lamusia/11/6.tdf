@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	34.5634920635	speaker6	female	native	What courses I think are the most difficult uh well I think what-- what courses I find easier than others are courses where it-- where it requires more understanding I suppose and where the exams are not simply true or false or multiple choice where you can um-- where you can explain your reasoning because then the-- there isn't really a-- a definite right and wrong answer so the courses that I find more-- to be more difficult I think would be those that require a definite answer the more quan--quantitative subjects	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	14.5454545455	speaker5	male	native	uh For lesuire, most of the time I just watch ~TV or I hang around with my girlfriend. uh The reason being that when I watch ~TV I can be really passive, and then because uh normally I'm doing a lot of work. So when I'm passive it's uh it's a lot better.	0	0	0		

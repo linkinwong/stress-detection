@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	23.0952380952	speaker9	female	native	um I adapt to my college life by making new friends with people around me. um the reason I choose this university is like because I like Ho-- I want to come to Hong Kong to see a different culture and different um studying envionment and I choose my major because I'm good at bio-chemistry and I think this is something that interest me	0	0	0		

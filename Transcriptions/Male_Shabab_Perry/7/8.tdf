@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	38.3116883117	speaker7	male	native	Um My recent work was ah finance team project and the deadline is tomorrow and uh we are having some difficulties ah dealing some of the questions. Um I think, and also it will take at least three years for me to graduate because -- no actually four years because I have to do the military service. Um uh Not exams yet but it will be -- it will come. And I will be very stressed out.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(b)(ii).wav	0	0.0	29.4805194805	speaker3	male	native	Well my weaknesses, um, I think my weakness is my communication skills since I don't like listening to people and I like doing stuff myself but yeah I can -- I can learn from my weakness  I mean I can change to more communication, more effective communication to understand other people's perspectives and hopefully that will um -- that can apply to my real job sooner or later. 	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	14.5454545455	speaker5	male	native	uh The -- the mo -- ah the most I'm worried about is uh for my final grade and also about uh my -- my future prospects because I'm not sure exactly right now wether I'm going to be joining a workforce or wether I'll be continuing my further studies.	0	0	0		

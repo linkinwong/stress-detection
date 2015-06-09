@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	15.2231404959	speaker1	male	other	Yeah I've been to -- been for a holiday in Goa, it's a place in India -- uh a beach place in India. I like the place um because of the beach and the girls and everything.	0	0	0		

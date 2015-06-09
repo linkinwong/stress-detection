@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+8.wav	0	0.0	10.9210526316	speaker6	male	native	Recent work is uh hard to focus on because um job applications are taking -- is taking up so much time, uh making it hard to focus on current work. 	0	0	0		

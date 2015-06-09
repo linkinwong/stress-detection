@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	9.91610738255	speaker1	male	native	I'm fond of eating Italian food. I prefer lasagna the most. Although I don't know how to make it, but I know places where can--where you can get good Italian food.	0	0	0		

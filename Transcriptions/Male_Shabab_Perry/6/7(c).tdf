@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c).wav	0	0.0	13.8157894737	speaker6	male	native	Further studies is something I’ve been thinking about doing two years after working. uh After working I will probably do the ~GMAT and ~GRE, I have it in the back of my head but I’m not doing it right now.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	23.0158730159	speaker2	female	native	I've been to Europe for holiday half a year ago um I've been to like Greece, Italy and Spain. um I like the place because it has totally different  ah culture, background and it's very nice to see the beautiful views	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+12.wav	0	0.0	13.2142857143	speaker12	female	native	My friends give me pressure when they study in the library and I don't so I feel bad for that. My parents don't give me that much stress because I don't talk to them that much on the phone but when I do I feel like I-- I should study so yeah	0	0	0		

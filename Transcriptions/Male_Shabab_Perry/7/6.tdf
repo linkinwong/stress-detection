@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	19.0909090909	speaker7	male	native	ah The course I think the most difficult is um Accounting and Finance, cause I’m in Finance major so I have to do Accounting again. And it’s really boring and I feel really stressed every time I ((need to do)) study 	0	0	0		

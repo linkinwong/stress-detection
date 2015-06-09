@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7.wav	0	0.0	17.6677852349	speaker1	male	native	um My plan after graduation is to look for a job in um company like um -- which is generally related to automotive and after that I would p- pursue -- I would like to pursue my master's which could be in the US.	0	0	0		

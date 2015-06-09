@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	12.4206349206	speaker1	female	native	I have seen a movie called hutchie the dog tale, which is like a dog story, it isn't that-- it wasn't that interesting but I mean that's okay, its just like a movie for chill	0	0	0		

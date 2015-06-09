@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	14.432677761	speaker8	male	native	uh This summer I went to the Phillippines with a couple of friends. We went to a place called Puerto Gelara its near Manila and its a -- a really nice place ((actually)). If you want to go there I recommend it.	0	0	0		

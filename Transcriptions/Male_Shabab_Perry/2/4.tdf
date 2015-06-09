@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0503355704698	8.45637583893	speaker1	male	native	Well, uh I do a lot of activities for leisure like surfing the Internet, playing a lot of games like badminton and table tennis.	0	0	0		

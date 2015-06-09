@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	20.1315789474	speaker6	male	native	uh Currently I’m very anxious about several things. uh Number one being employment after graduation.  Secondly, it’s the academics uh I’m also worried about. What my grade average will be, which will again limit the employ -employment options. And uh Relationships is also something I think about. 	0	0	0		

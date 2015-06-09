@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	17.4206349206	speaker2	female	native	I've been to quite a few places for holidays but mostly in asia and I like going on holidays because it gives you a chance to just leave home and be somewhere new but then again I also like coming back home I don't want to stay on holiday forever.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+6.wav	0	0.0	16.7063492063	speaker6	female	native	Ah i think the most difficult course right now for like these 3 years are-- is machine learning I took that course for like three or four classes and i dropped it because I can't really understand what they're talking about in the class	0	0	0		

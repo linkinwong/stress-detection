@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(a).wav	0	0.0	11.8650793651	speaker7a	female	native	After graduating I'd like to get a job, what type of job? no clue, hopefully something-- I have no idea um marketing based maybe. I'm not looking for a job right now because I'm year two but um looking for internships of-- for the summer. I'd like to do an MBA at one point, maybe two years after having a job.	0	0	0		

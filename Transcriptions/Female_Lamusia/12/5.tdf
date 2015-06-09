@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	8.96825396825	speaker5	female	native	um I'm not picky as long as it's vegeterian food uh pizza, pasta, indian food anything does.	0	0	0		

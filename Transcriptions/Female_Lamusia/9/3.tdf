@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	29.7619047619	speaker3	female	native	I grew up mostly in korea but I've also lived in Canada and Shanghai so I don't really h-- have a home town um but I would say that I-- I woul-- when I introduce myself to people I say that I am from Korea-- and for Ko-- uh Korea I would recommend people to try out the food and also the culture there because it's quite different from other asian countries um and Hong Kong is not my home town because this is my second year living here	0	0	0		

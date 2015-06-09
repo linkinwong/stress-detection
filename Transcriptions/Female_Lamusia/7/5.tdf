@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	24.3253968254	speaker5	female	native	um The food I like most is ah tr-- traditional cantonese soup um it's-- it's the kind of food that you have uh-- the soup that you have to make it for like two hours or so and I like it even the one in our university canteen um I don't know how to make it because it's really complicated and but i can really buy-- i can buy it in the restaurants	0	0	0		

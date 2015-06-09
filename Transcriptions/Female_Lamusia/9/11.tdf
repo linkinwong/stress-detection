@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	27.4206349206	speaker11	female	native	I'm not really anxious about anything right now because for employment I still have another year of university to go so I don't really tend to think about much-- think much about it and academic life because second semester was a lot better than first semester I believe in myself that I can do better uh this semester and on and on, uh relationships and live life are-- they're  acceptable they're not too worrysome	0	0	0		

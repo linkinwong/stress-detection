@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	14.1287284144	speaker1	male	native	Um, in the university I'm actually most anxious about my academic life because uh I really want to do well so that later on I can get a good job over here and have a good future.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	25.3968253968	speaker3	female	native	ah My home town is Beijing um there's nothing really special about it, just the capital city of china I recommend people to go to the great wall, the tiananmen square um probably that's it for beijing. I-- I prefer Beijing than Hong Kong because it's bigger and people do get like more personal space than Hong Kong 	0	0	0		

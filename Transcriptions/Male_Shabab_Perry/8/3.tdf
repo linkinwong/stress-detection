@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	15.7942511346	speaker8	male	native	uh I'm from a small town in Sweden called Valdemarsvik, its only around five thousand people living there and in the winter of course it gets really cold and we have a lot of snow so thats why I moved to Hong Kong because I hate the weather there.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	13.2467532468	speaker5	male	native	uh Yes I have seen uh some ~TV series lately. It's How I Met Your Mother, it was about uh -- it was about ted and ((me ah)) -- him trying to meet his uh -- his -- his wife, and tyring to get a girlfriend.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c)(iii).wav	0	0.0	21.4285714286	speaker3	male	native	How long does it take to graduate, wow that's -- that's a hard question um I think um it really depends on how much you are willing to devote your life to studying for your ~PHD. I mean that is the last level in -- uh in terms of academics and I would yeah yeah.	0	0	0		

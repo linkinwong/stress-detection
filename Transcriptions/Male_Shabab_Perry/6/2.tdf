@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+2.wav	0	0.0	12.3376623377	speaker6	male	native	I have been on holiday to Beijing, and I like Beijing a lot because it’s a lot cheaper than Hong Kong. Hong Kong is a lot more expensive than Beijing.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+11.wav	0	0.0	15.8415841584	speaker3	male	native	Um, when it comes to life I'm anxious about everything because you don't know what is going to happen you can't predict the outcome so here it asks me employment academic life relationship love life, ofcourse I'm nervous about that who isn't.	0	0	0		

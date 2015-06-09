@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	11.1842105263	speaker6	male	native	College life is uh easy to adapt to. um It’s more the academic side of it that’s a little bit challenging. But the social side is uh liberating.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(b)(i).wav	0	0.0	43.7662337662	speaker3	male	native	I've been looking for jobs uh been going through job ~DB's , newspapers and through my parents but um it's coming pretty good I've sent around fifty uh copies of resumes to companies and I've got interview offers from six of them, and without preparing about well tell you what it's all about looking up the company websites updating -- updated on the news of what's happening, press conferences, etc. Uh it's uh pretty hard to find a job um because specially in Hong Kong it's such a competetive market and everyones looking for jobs the unemployment rate is pretty high and it's just you know it's hard.	0	0	0		

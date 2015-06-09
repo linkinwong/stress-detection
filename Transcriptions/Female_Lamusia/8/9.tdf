@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	14.8015873016	speaker9	female	native	I like my college life and I'm adapting pretty fast I'm a fast adapter and I came to this university because it's close to mainland China and I live there and I study business because I've no idea what I want to do so business is the safest option	0	0	0		

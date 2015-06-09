@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(c)(i).wav	0	0.0	32.987012987	speaker3	male	native	Well after I finish uh  graduating first  honors in my class uh @UPENN and Harvard offered me uh post graduate position. But I just -- you know I told them no because I want more life experience and I'm pretty sick of studying in just a faculty or anything. I want to go out there reach out to the community what they gave me when I was young and uh yeah that's my reason for  rejecting these top universities.	0	0	0		

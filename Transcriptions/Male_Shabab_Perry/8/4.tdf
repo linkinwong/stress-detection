@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	11.7095310136	speaker8	male	native	uh In my free time I'm mostly like going out getting drunk because life in ~UST kind of sucks most of the time so once in a while it is nice to have a cold one and just relax.	0	0	0		

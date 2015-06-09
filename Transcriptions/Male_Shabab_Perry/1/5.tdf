@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	11.3391739675	speaker1	male	native	Yeah I like Indian food a lot um because it's got a lot of flavor , it's really spicy and good to eat. I don't know how to make it but I know places from where I can get it.	0	0	0		

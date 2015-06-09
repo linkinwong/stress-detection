@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+4.wav	0	0.0	22.5396825397	speaker4	female	native	When i'm free i cook a lot, like i do like the food i cook and-- and i do like create some new food that others did not cook. um I like ((it)) because my mum like the stuff i cooked and my dad like it as well i don't like it that much but they like it	0	0	0		

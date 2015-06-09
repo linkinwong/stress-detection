@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	15.4545454545	speaker6	male	native	uh last week I saw the movie Inception, which was a very good movie starring Leonardo DiCaprio which is uh about stealing other people's uh dreams and planting ideas. It’s the first movie that talks about lucid dreaming.	0	0	0		

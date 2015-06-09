@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+3.wav	0	0.0	17.3015873016	speaker3	female	native	um My home town would be in India a place called ((rokee)) it's pretty darn small so there's no reason why anyone would-- would wana go there so I don't really recommend it um I prefer both they're very different but I prefer to live in Hong Kong.	0	0	0		

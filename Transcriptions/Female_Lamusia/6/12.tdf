@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+12.wav	0	0.0	26.7857142857	speaker12	female	native	My parents are really open minded and like they don't really care what I'm doing as long as I like what I'm doing so they don't really give me any pressure, my friends um most of them are fine they're like timid and shy but i do have a few friends that is like ((very sparkling)) and try to like push me to do a lot of things but like i don't really hang out with them so i think that's fine	0	0	0		

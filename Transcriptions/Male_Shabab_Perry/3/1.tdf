@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+1.wav	0	0.0	15.0649350649	speaker3	male	native	No man. I haven't seen any good movies lately. I've been stuck in the library revising. That sounds (()) -- sounds pretty boring but hey that's year two you know. Yup that basically sums up my movie life.	0	0	0		

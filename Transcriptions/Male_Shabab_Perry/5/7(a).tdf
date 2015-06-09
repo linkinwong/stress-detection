@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7(a).wav	0	0.0	13.2467532468	speaker5	male	native	((My initial)) for after graduation would be to uh find -- find a place where I could do my graduate studies. But if that doesn't turn out uh probably then I will probably do uh -- start finding a job.	0	0	0		

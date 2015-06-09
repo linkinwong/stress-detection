@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+9.wav	0	0.0	12.7722772277	speaker3	male	native	I'm adapting pretty good to college life um friends are good here the environment is really good, beautiful view and I in the end I chose marketing and finance as my major. 	0	0	0		

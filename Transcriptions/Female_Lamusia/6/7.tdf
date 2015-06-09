@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+7.wav	0	0.0	33.7301587302	speaker7	female	native	I-- I think i'm going to apply for a graduate school after this i didn't get-- i didn't get any offer yet but hopefully I should get like one or two somehow sometimes, um i wanted to do a masters first and then PHd because I'm not really sure what im trying to do but um i mean masters sounds better than like a five year commission for this, so i think i'm just going to be waiting for the offer and see what happens next	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.0]
+5.wav	0	0.0	17.9220779221	speaker7	male	native	Um I’m Korean so I like Korean food the best -- the most. Ah Bu -- but I also like Thai food and ah I like the Tom Yum Soup in Thai food, ah but I do not know how to make it. 	0	0	0		
